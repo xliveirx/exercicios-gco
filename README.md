@@ -1,6 +1,8 @@
 commits usam a regra do https://www.conventionalcommits.org/en/v1.0.0/ 
 
-main -> branch principal
+main &rarr; branch principal
+dev &rarr; branch de desenvolvimento
+pre-prod &rarr; branch de homologação
 
 Branches existentes de funcionaldiades
 * feat/func-a
